@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/parking-fee/index",
+    "pages/member-center/index",
+    "pages/parking-fee/pages/parking-fee-records/index",
+    "pages/parking-fee/pages/parking-fee-checkout/index",
+    "pages/parking-fee/pages/my-cars/index",
+    "pages/parking-fee/pages/cars-addition/index",
+    "pages/parking-fee/pages/parking-fee-pay-result/index",
+    "subpackage/store-selection/index.axml/index.axml",
+    "subpackage/store-selection/pages/pages"
+  ],
+  "subPackages": [
+    {
+      "root": "subpackages/store-selection",
+      "pages": [
+        "index"
+      ]
+    }
+  ],
+  "tabBar": {
+    "selectedColor": "#999",
+    "backgroundColor": "#fff",
+    "textColor": "#333",
+    "disableOnInit": false,
+    "items": [
+      {
+        "pagePath": "pages/parking-fee/index",
+        "name": "停车缴费",
+        "icon": "application/theme/miao/img/parking_fee.png",
+        "activeIcon": "application/theme/miao/img/parking_fee_active.png"
+      },
+      {
+        "pagePath": "pages/member-center/index",
+        "name": "我的",
+        "icon": "application/theme/global/img/tabbar_member_normal.png",
+        "activeIcon": "application/theme/miao/img/tabbar_member_active.png"
+      }
+    ]
+  },
+  "window": {
+    "titleBarColor": "#fff",
+    "defaultTitle": "WeChat"
+  },
+  "plugins": {
+    "alipassToolKit": {
+      "version": "*",
+      "provider": "2021001107697072"
+    }
+  }
+}

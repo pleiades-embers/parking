@@ -1,0 +1,15 @@
+{
+  "extEnable": true,
+  "extAppid": "2021003113693571",
+  "directCommit": true,
+  "ext": {
+    "domain": "https://magic-dev-restapi.co-mall.com",
+    "logo": "https://b-puzhehei-cdn.co-mall.net/logo@2x.png",
+    "name": "puzhehei-qa",
+    "appId": "2021003113693571",
+    "tenantId": "miao",
+    "theme": "miao"
+  },
+  "storwindAppID": "magic",
+  "storwindClientVersion": "puzhehei"
+}
