@@ -6,9 +6,7 @@
     "pages/parking-fee/pages/parking-fee-checkout/index",
     "pages/parking-fee/pages/my-cars/index",
     "pages/parking-fee/pages/cars-addition/index",
-    "pages/parking-fee/pages/parking-fee-pay-result/index",
-    "subpackage/store-selection/index.axml/index.axml",
-    "subpackage/store-selection/pages/pages"
+    "pages/parking-fee/pages/parking-fee-pay-result/index"
   ],
   "subPackages": [
     {
