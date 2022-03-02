@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "ainstall": "npm install --registry=https://registry.npm.taobao.org"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "mini-antui": "^0.4.29"
+  }
+}
